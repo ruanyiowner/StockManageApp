@@ -27,6 +27,10 @@ public class StockIOActivity extends AppCompatActivity {
                         .setAction("Action", null).show();
             }
         });
+
+        String dd="s";
+
+
     }
 
 }
