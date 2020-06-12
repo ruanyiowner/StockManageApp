@@ -1,4 +1,4 @@
-package com.yjedu.zxt.sys;
+package com.RuanYi.StockManageApp.sys;
 
 import android.app.Application;
 import android.content.Context;

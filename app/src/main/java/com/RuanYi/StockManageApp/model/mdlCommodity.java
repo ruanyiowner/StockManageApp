@@ -1,4 +1,4 @@
-package com.yjedu.zxt.model;
+package com.RuanYi.StockManageApp.model;
 
 import java.math.BigDecimal;
 

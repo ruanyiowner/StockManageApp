@@ -1,4 +1,4 @@
-package com.yjedu.zxt;
+package com.RuanYi.StockManageApp;
 
 import java.io.BufferedReader;
 import java.io.IOException;
@@ -11,7 +11,7 @@ import java.net.URL;
 import org.json.JSONArray;
 import org.json.JSONObject;
 
-import com.yjedu.zxt.R;
+import com.RuanYi.StockManageApp.R;
 
 import android.os.Bundle;
 import android.os.Handler;

@@ -38,7 +38,7 @@ import android.util.Log;
 
 public class PicUtil {
     private static final String TAG = "PicUtil";
-    private static final String PicPath = Environment.getExternalStorageDirectory().getAbsolutePath()+com.yjedu.zxt.R.string.file_pic_path;
+    private static final String PicPath = Environment.getExternalStorageDirectory().getAbsolutePath()+com.RuanYi.StockManageApp.R.string.file_pic_path;
 
     /**
      * 根据一个网络连接(URL)获取bitmapDrawable图像

@@ -1,4 +1,4 @@
-package com.yjedu.zxt;
+package com.RuanYi.StockManageApp;
 
 import java.io.BufferedReader;
 import java.io.IOException;
@@ -10,8 +10,8 @@ import java.net.URL;
 
 import android.os.Handler;
 
-import com.yjedu.zxt.sys.appConfig;
-import com.yjedu.zxt.api.ResultInfo;
+import com.RuanYi.StockManageApp.sys.appConfig;
+import com.RuanYi.StockManageApp.api.ResultInfo;
 
 public class HttpHelper {
 

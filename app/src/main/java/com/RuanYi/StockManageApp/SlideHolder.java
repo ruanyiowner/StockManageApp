@@ -1,4 +1,4 @@
-package com.yjedu.zxt;
+package com.RuanYi.StockManageApp;
 
 import java.util.LinkedList;
 import java.util.Queue;

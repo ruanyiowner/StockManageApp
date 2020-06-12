@@ -1,4 +1,4 @@
-package com.yjedu.zxt.db;
+package com.RuanYi.StockManageApp.db;
 
 import java.text.ParseException;
 import java.text.SimpleDateFormat;
@@ -6,8 +6,8 @@ import java.util.ArrayList;
 import java.util.Date;
 import java.util.List;
 
-import com.yjedu.zxt.db.model.Person;
-import com.yjedu.zxt.db.model.mdllogdata;
+import com.RuanYi.StockManageApp.db.model.Person;
+import com.RuanYi.StockManageApp.db.model.mdllogdata;
 
 import android.content.ContentValues;
 import android.content.Context;

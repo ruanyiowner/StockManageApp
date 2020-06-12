@@ -1,9 +1,9 @@
-package com.yjedu.zxt.dataAdapter;
+package com.RuanYi.StockManageApp.dataAdapter;
 
 import java.util.List;
-import com.yjedu.zxt.act.testPaper.ExamActivity;
-import com.yjedu.zxt.R;
-import com.yjedu.zxt.model.mdlSJK;
+import com.RuanYi.StockManageApp.act.testPaper.ExamActivity;
+import com.RuanYi.StockManageApp.R;
+import com.RuanYi.StockManageApp.model.mdlSJK;
 
 import android.app.Activity;
 import android.content.Context;

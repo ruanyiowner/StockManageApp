@@ -1,4 +1,4 @@
-package com.yjedu.zxt.db.model.base;
+package com.RuanYi.StockManageApp.db.model.base;
 import java.lang.reflect.Type;
 public class ColumnInfo {
     public String ColumnName="";

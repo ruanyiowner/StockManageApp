@@ -1,4 +1,4 @@
-package com.yjedu.zxt.sys;
+package com.RuanYi.StockManageApp.sys;
 
 import java.io.FileNotFoundException;
 import java.io.FileOutputStream;
@@ -10,8 +10,8 @@ import java.text.SimpleDateFormat;
 import java.util.Date;
 import java.util.Properties;
 
-import com.yjedu.zxt.HttpHelper;
-import com.yjedu.zxt.api.ResultInfo;
+import com.RuanYi.StockManageApp.HttpHelper;
+import com.RuanYi.StockManageApp.api.ResultInfo;
 
 import tools.file.FileUtil;
 import android.R;

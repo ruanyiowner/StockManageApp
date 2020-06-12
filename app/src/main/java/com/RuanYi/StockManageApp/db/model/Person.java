@@ -1,4 +1,4 @@
-package com.yjedu.zxt.db.model;
+package com.RuanYi.StockManageApp.db.model;
 
 public class Person {
     public int _id;

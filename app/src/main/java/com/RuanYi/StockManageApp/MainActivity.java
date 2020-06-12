@@ -1,4 +1,4 @@
-package com.yjedu.zxt;
+package com.RuanYi.StockManageApp;
 
 import java.io.File;
 import java.io.FileNotFoundException;
@@ -9,7 +9,7 @@ import java.io.UnsupportedEncodingException;
 import java.text.SimpleDateFormat;
 import java.util.Date;
 
-import com.yjedu.zxt.R;
+import com.RuanYi.StockManageApp.R;
 
 import tools.file.FileUtil;
 import android.os.Bundle;
@@ -32,10 +32,10 @@ import android.widget.ImageButton;
 import android.widget.TabHost;
 import android.widget.Toast;
 
-import com.yjedu.zxt.sys.AppContext;
-import com.yjedu.zxt.sys.appConfig;
-import com.yjedu.zxt.api.AccessAuthentication;
-import com.yjedu.zxt.api.ResultInfo;
+import com.RuanYi.StockManageApp.sys.AppContext;
+import com.RuanYi.StockManageApp.sys.appConfig;
+import com.RuanYi.StockManageApp.api.AccessAuthentication;
+import com.RuanYi.StockManageApp.api.ResultInfo;
 
 public class MainActivity extends TabActivity   {
 

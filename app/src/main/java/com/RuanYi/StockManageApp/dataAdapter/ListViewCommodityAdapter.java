@@ -1,8 +1,8 @@
-package com.yjedu.zxt.dataAdapter;
+package com.RuanYi.StockManageApp.dataAdapter;
 import java.util.List;
 
-import com.yjedu.zxt.R;
-import com.yjedu.zxt.model.mdlCommodity;
+import com.RuanYi.StockManageApp.R;
+import com.RuanYi.StockManageApp.model.mdlCommodity;
 
 import tools.image.AsynImageLoader;
 

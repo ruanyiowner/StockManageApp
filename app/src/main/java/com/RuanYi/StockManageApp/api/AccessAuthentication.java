@@ -1,6 +1,6 @@
-package com.yjedu.zxt.api;
+package com.RuanYi.StockManageApp.api;
 
-import com.yjedu.zxt.sys.AppContext;
+import com.RuanYi.StockManageApp.sys.AppContext;
 
 import android.content.Context;
 
@@ -11,8 +11,8 @@ public class AccessAuthentication {
      * @return
      */
     public static String getAPIUrl(Context context) throws Exception {
-       // com.yjedu.zxt.sys.appConfig config = new com.yjedu.zxt.sys.appConfig(context);
-        com.yjedu.zxt.sys.appConfig config = com.yjedu.zxt.sys.appConfig.getInstance();
+       // com.RuanYi.StockManageApp.sys.appConfig config = new com.RuanYi.StockManageApp.sys.appConfig(context);
+        com.RuanYi.StockManageApp.sys.appConfig config = com.RuanYi.StockManageApp.sys.appConfig.getInstance();
         String host = "";
         if(config.getConnectionType().equals("dynamic"))
         {

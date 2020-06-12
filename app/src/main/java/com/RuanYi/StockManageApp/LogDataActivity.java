@@ -1,11 +1,11 @@
-package com.yjedu.zxt;
+package com.RuanYi.StockManageApp;
 
 import java.util.ArrayList;
 import java.util.List;
 
-import com.yjedu.zxt.R;
-import com.yjedu.zxt.log.logdata;
-import com.yjedu.zxt.model.TextValueItem;
+import com.RuanYi.StockManageApp.R;
+import com.RuanYi.StockManageApp.log.logdata;
+import com.RuanYi.StockManageApp.model.TextValueItem;
 
 
 import android.os.Bundle;

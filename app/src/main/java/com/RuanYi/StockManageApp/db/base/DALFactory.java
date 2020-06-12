@@ -2,7 +2,7 @@
  * 设计者：LHJ
  * 邮箱：869067911@qq.com
  */
-package com.yjedu.zxt.db.base;
+package com.RuanYi.StockManageApp.db.base;
 import java.lang.reflect.Type;
 import java.util.ArrayList;
 import java.util.List;
@@ -11,10 +11,10 @@ import android.content.Context;
 import android.database.Cursor;
 import android.database.sqlite.SQLiteDatabase;
 
-import com.yjedu.zxt.db.DBHelper;
-import com.yjedu.zxt.db.model.Person;
-import com.yjedu.zxt.db.model.base.ModelBase;
-import com.yjedu.zxt.db.model.base.ModelSetup;
+import com.RuanYi.StockManageApp.db.DBHelper;
+import com.RuanYi.StockManageApp.db.model.Person;
+import com.RuanYi.StockManageApp.db.model.base.ModelBase;
+import com.RuanYi.StockManageApp.db.model.base.ModelSetup;
 public class DALFactory<T extends ModelBase> extends DALBase<T>  {
     private DBHelper helper;
     private SQLiteDatabase db;

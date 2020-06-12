@@ -1,4 +1,4 @@
-package com.yjedu.zxt.log;
+package com.RuanYi.StockManageApp.log;
 
 import java.util.ArrayList;
 import java.util.Date;
@@ -6,9 +6,9 @@ import java.util.List;
 
 import android.content.Context;
 
-import com.yjedu.zxt.db.DBManager;
-import com.yjedu.zxt.db.model.mdllogdata;
-import com.yjedu.zxt.model.TextValueItem;
+import com.RuanYi.StockManageApp.db.DBManager;
+import com.RuanYi.StockManageApp.db.model.mdllogdata;
+import com.RuanYi.StockManageApp.model.TextValueItem;
 
 public class logdata {
     // 日志类型

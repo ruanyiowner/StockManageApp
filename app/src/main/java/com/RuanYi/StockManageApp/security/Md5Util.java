@@ -1,4 +1,4 @@
-package com.yjedu.zxt.security;
+package com.RuanYi.StockManageApp.security;
 
 import java.io.UnsupportedEncodingException;
 import java.security.MessageDigest;

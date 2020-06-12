@@ -1,4 +1,4 @@
-package com.yjedu.zxt.model;
+package com.RuanYi.StockManageApp.model;
 
 /**
  * 试卷库数据

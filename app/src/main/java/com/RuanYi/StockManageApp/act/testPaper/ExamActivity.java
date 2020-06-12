@@ -1,4 +1,4 @@
-package com.yjedu.zxt.act.testPaper;
+package com.RuanYi.StockManageApp.act.testPaper;
 
 import android.os.Bundle;
 import android.app.Activity;
@@ -6,7 +6,7 @@ import android.content.Intent;
 import android.view.Menu;
 import android.view.Window;
 
-import com.yjedu.zxt.R;
+import com.RuanYi.StockManageApp.R;
 
 public class ExamActivity extends Activity {
     Intent intent = null;

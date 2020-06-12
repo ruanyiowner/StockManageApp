@@ -2,13 +2,13 @@
  * 设计者：LHJ
  * 邮箱：869067911@qq.com
  */
-package com.yjedu.zxt.db.base;
+package com.RuanYi.StockManageApp.db.base;
 
 import java.lang.reflect.Field;
 
 import android.database.Cursor;
 
-public class DALBase<T extends com.yjedu.zxt.db.model.base.ModelBase>    {
+public class DALBase<T extends com.RuanYi.StockManageApp.db.model.base.ModelBase>    {
     protected T CursorToModel (Cursor cursor,T t) throws IllegalAccessException, IllegalArgumentException
     {
         //Class<?> classType = t.getClass().getSuperclass();

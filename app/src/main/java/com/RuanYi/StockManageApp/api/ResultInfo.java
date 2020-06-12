@@ -1,4 +1,4 @@
-package com.yjedu.zxt.api;
+package com.RuanYi.StockManageApp.api;
 public class ResultInfo {
     public Boolean IsSuccess = false;
     public String errMsg = "";

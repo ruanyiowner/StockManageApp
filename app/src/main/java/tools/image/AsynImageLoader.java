@@ -6,8 +6,8 @@ import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 
-import com.yjedu.zxt.R;
-import com.yjedu.zxt.security.Md5Util;
+import com.RuanYi.StockManageApp.R;
+import com.RuanYi.StockManageApp.security.Md5Util;
 
 import android.content.Context;
 import android.graphics.Bitmap;

@@ -1,4 +1,4 @@
-package com.yjedu.zxt.model;
+package com.RuanYi.StockManageApp.model;
 
 public class TextValueItem {
     private String Text;

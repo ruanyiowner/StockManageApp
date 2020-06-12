@@ -1,4 +1,4 @@
-package com.yjedu.zxt.db;
+package com.RuanYi.StockManageApp.db;
 
 import android.content.Context;
 import android.database.sqlite.SQLiteDatabase;

@@ -1,4 +1,4 @@
-package com.yjedu.zxt.dataAdapter;
+package com.RuanYi.StockManageApp.dataAdapter;
 /**
  * 分页
  * @author Administrator

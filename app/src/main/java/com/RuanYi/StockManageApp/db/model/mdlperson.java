@@ -1,4 +1,4 @@
-package com.yjedu.zxt.db.model;
+package com.RuanYi.StockManageApp.db.model;
 import java.lang.reflect.InvocationTargetException;
 import java.lang.reflect.Method;
 import java.lang.reflect.Type;
@@ -10,8 +10,8 @@ import java.util.Date;
 import java.util.List;
 import android.database.Cursor;
 
-import com.yjedu.zxt.db.model.base.ModelBase;
-import com.yjedu.zxt.db.model.base.ModelSetup;
+import com.RuanYi.StockManageApp.db.model.base.ModelBase;
+import com.RuanYi.StockManageApp.db.model.base.ModelSetup;
 
 public class mdlperson extends ModelBase {
     SimpleDateFormat sdf = new SimpleDateFormat("yyyy-MM-dd HH:mm:ss");

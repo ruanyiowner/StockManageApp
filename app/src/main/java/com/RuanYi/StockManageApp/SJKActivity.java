@@ -1,4 +1,4 @@
-package com.yjedu.zxt;
+package com.RuanYi.StockManageApp;
 
 import java.util.ArrayList;
 
@@ -6,15 +6,15 @@ import com.google.gson.JsonArray;
 import com.google.gson.JsonElement;
 import com.google.gson.JsonObject;
 import com.google.gson.JsonParser;
-import com.yjedu.zxt.R;
-import com.yjedu.zxt.sys.AppContext;
-import com.yjedu.zxt.sys.appConfig;
-import com.yjedu.zxt.api.AccessAuthentication;
-import com.yjedu.zxt.api.ResultInfo;
-import com.yjedu.zxt.dataAdapter.ListViewSJKAdapter;
-import com.yjedu.zxt.dataAdapter.Pager;
-import com.yjedu.zxt.model.mdlCommodity;
-import com.yjedu.zxt.model.mdlSJK;
+import com.RuanYi.StockManageApp.R;
+import com.RuanYi.StockManageApp.sys.AppContext;
+import com.RuanYi.StockManageApp.sys.appConfig;
+import com.RuanYi.StockManageApp.api.AccessAuthentication;
+import com.RuanYi.StockManageApp.api.ResultInfo;
+import com.RuanYi.StockManageApp.dataAdapter.ListViewSJKAdapter;
+import com.RuanYi.StockManageApp.dataAdapter.Pager;
+import com.RuanYi.StockManageApp.model.mdlCommodity;
+import com.RuanYi.StockManageApp.model.mdlSJK;
 
 import android.app.ListActivity;
 import android.os.Bundle;

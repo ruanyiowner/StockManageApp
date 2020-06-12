@@ -2,7 +2,7 @@
  * 设计者：LHJ
  * 邮箱：869067911@qq.com
  */
-package com.yjedu.zxt.db.model.base;
+package com.RuanYi.StockManageApp.db.model.base;
 import java.lang.reflect.Type;
 import java.util.ArrayList;
 import java.util.List;
