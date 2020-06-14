@@ -23,7 +23,7 @@ public class DBHelper extends SQLiteOpenHelper {
         {
             ExeSqlByVersion(db,i);
         }
-        android.util.Log.v("MyDebug","a Create db.getVersion："+db.getVersion());
+        android.util.Log.v("MyDebug","ab Create db.getVersion："+db.getVersion());
     }
 
     //如果DATABASE_VERSION值被改为新版本，比如原来是1，现改为2,系统发现现有数据库版本不同,即会调用onUpgrade
